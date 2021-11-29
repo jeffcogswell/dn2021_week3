@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReview", "ArrayReview\ArrayReview.csproj", "{4EDBB95C-8954-446D-9D02-2015F19F051D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15C8DECD-BE0E-4B18-B8F6-09F44EF1EA3B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListReview", "ListReview\ListReview.csproj", "{3C9E11A1-2CA5-4953-93BA-CA5A00AB8456}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{4EDBB95C-8954-446D-9D02-2015F19F051D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EDBB95C-8954-446D-9D02-2015F19F051D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EDBB95C-8954-446D-9D02-2015F19F051D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9E11A1-2CA5-4953-93BA-CA5A00AB8456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9E11A1-2CA5-4953-93BA-CA5A00AB8456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9E11A1-2CA5-4953-93BA-CA5A00AB8456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9E11A1-2CA5-4953-93BA-CA5A00AB8456}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
